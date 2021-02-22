@@ -16,7 +16,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  <br/>
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/MohamedAzizMha1);
+- 📫 How to reach me: [@Mohamed Aziz Mhadhbi](https://twitter.com/MohamedAzizMha1);
 - ✨ **Wanna Talk?** [calendly](https://calendly.com/mohamed-aziz-mhadhbi)
 - 📝 [Resume]()
 
