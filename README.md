@@ -21,6 +21,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📝 [Resume]()
 
 **Languages and Tools:**  
+
 [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) 
 [![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#) 
 [![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=Sass&logoColor=CC6699)](#) 
