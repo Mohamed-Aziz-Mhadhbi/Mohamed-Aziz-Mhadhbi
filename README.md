@@ -44,9 +44,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 📈 My GitHub Stats
-<a src="https://github.com/Mohamed-Aziz-Mhadhbi"
+
 <img height="137px"  alt="Mohamed-Aziz-Mhadhbi" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Aziz-Mhadhbi&hide=issues&show_icons=true" />
-<img height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Aziz-Mhadhbi&layout=compact&https://github.com/anuraghazra/github-readme-stats" />/>
+<img height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Aziz-Mhadhbi&layout=compact&https://github.com/anuraghazra/github-readme-stats" />
 
 
 ![](https://komarev.com/ghpvc/?username=Mohamed-Aziz-Mhadhbi)
