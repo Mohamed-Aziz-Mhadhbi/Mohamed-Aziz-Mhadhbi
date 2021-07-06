@@ -49,7 +49,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Aziz-Mhadhbi&layout=compact&https://github.com/anuraghazra/github-readme-stats" />
 
 
-![](https://komarev.com/ghpvc/?username=Mohamed-Aziz-Mhadhbi)
+<p align="center">![](https://komarev.com/ghpvc/?username=Mohamed-Aziz-Mhadhbi)</p>
 
   
 
