@@ -15,8 +15,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  <br/>
 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Mohamed Aziz Mhadhbi](https://twitter.com/MohamedAzizMha1);
+- 🔭 I’m Software Engineer Student at @Esprit
+- 🌱 I’m currently learning Node.js and Docker
+- 👯 I’m looking to collaborate on any project.
+- 💬 Ask me about any thing, be sure I'll be genrous
+- 📫 How to reach me: [@Mohamed Aziz Mhadhbi](https://twitter.com/MohamedAzizMha1) or <mohamedaziz.mhadhbi@esprit.tn>
 - ✨ **Wanna Talk?** [calendly](https://calendly.com/mohamed-aziz-mhadhbi)
 - 📝 [Resume]()
 
@@ -45,6 +48,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Aziz-Mhadhbi&show_icons=true&theme=gotham" alt="Mohamed-Aziz-Mhadhbi" />
 
+<a href="https://github.com/Theemiss"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Aziz-Mhadhbi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Aziz-Mhadhbi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
+![](https://komarev.com/ghpvc/?username=Mohamed-Aziz-Mhadhbi)
 
+  
 
