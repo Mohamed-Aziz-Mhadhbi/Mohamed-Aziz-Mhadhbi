@@ -47,7 +47,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Aziz-Mhadhbi&show_icons=true&theme=gotham" alt="Mohamed-Aziz-Mhadhbi" />
 <img align="left" alt="Mohamed-Aziz-Mhadhbi" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Aziz-Mhadhbi&hide=issues&show_icons=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Aziz-Mhadhbi&https://github.com/anuraghazra/github-readme-stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Aziz-Mhadhbi&layout=compact&https://github.com/anuraghazra/github-readme-stats" />
 
 
 ![](https://komarev.com/ghpvc/?username=Mohamed-Aziz-Mhadhbi)
