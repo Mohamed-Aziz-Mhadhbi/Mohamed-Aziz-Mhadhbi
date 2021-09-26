@@ -16,7 +16,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  <br/>
 
 - 🔭 I’m Software Engineer Student at @Esprit
-- 🌱 I’m currently learning Node.js and Flutter.
+- 🌱 I’m currently learning Kotlin and .NET Core.
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be genrous.
 - 📫 How to reach me: <mohamedaziz.mhadhbi@esprit.tn>
