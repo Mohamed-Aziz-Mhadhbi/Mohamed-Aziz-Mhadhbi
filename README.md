@@ -29,7 +29,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=Sass&logoColor=CC6699)](#) 
 [![Pug Badge](https://img.shields.io/badge/-Pug-A86454?style=for-the-badge&labelColor=black&logo=Pug&logoColor=A86454)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jQuery&logoColor=0769AD)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Node_js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
